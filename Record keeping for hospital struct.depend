@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1717816273 source:c:\users\hason\downloads\assignment 8 record keeping for hospital struct\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
